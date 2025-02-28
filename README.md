@@ -106,11 +106,6 @@ black .
 ## 📜 License
 This project is **Piyush Kesherwani**. Feel free to use and contribute! 🚀
 
-Output 
-![Uploading Screenshot 2025-03-01 at 12.04.00 AM.png…]()
-![Uploading Screenshot 2025-03-01 at 12.04.39 AM.png…]()
-![Uploading Screenshot 2025-03-01 at 12.04.53 AM.png…]()
-![Uploading Screenshot 2025-03-01 at 12.04.59 AM.png…]()
 
 
 
